@@ -1,0 +1,21 @@
+Introduction:-
+LibreOffice is a freely available, fully-featured office productivity suite. Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments world wide as a required file format for publishing and accepting documents.
+
+Development Model:-
+LibreOffice follows an open-source development model where a global community of volunteers and organizations collaborates to create and improve the free office software. Anyone can contribute by writing code, fixing bugs, translating, or providing support. The development process is transparent, with regular updates and open discussions, allowing everyone to have a say in the software's direction. This model fosters innovation, ensures accessibility, and results in a powerful, free alternative to commercial office suites like Microsoft Office.
+
+License:-
+There is no requirement to assign your copyright to anyone in order to get your code included into LibreOffice - all contributions are welcome, but we do ask that you license your code to us jointly under both the Mozilla Public License v2 and the GNU Lesser GPL v3+ licenses. Please see our guidelines for licensing and copyright attribution (which are there solely to make our life easier). You can also see a list of past and present contributors and their license statements. In addition you can read historic details about the process of re-basing LibreOffice onto the Apache licensed based.
+
+Mode of Funding:-
+LibreOffice is primarily funded through a combination of sources, including donations, sponsorships, and volunteer contributions. The Document Foundation, which oversees the development of LibreOffice, relies on financial donations from individuals, organizations, and companies to support ongoing development, infrastructure maintenance, and community activities. Additionally, some commercial entities that utilize LibreOffice or offer related services may provide sponsorship or resources to support the project. Furthermore, a significant portion of the work on LibreOffice is carried out by volunteers who contribute their time and expertise to the project. This diverse funding model helps ensure the continued growth and availability of LibreOffice as a free and open-source office productivity suite.
+
+Non-commercial Use:-
+You can download, install, and use LibreOffice on your personal computers for free.
+You can use LibreOffice for educational purposes, including in schools, universities, and non-profit organizations.
+You can modify the source code of LibreOffice for your personal use or for non-commercial projects, as long as you comply with the MPL terms regarding source code distribution.
+
+Commercial Use:-
+You can use LibreOffice in a commercial or for-profit environment without any cost.
+Businesses, government organizations, and other commercial entities can use LibreOffice for their office productivity needs.
+You can install LibreOffice on work computers, use it in your business operations, and even deploy it across multiple devices within your organization.
