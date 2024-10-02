@@ -1,2 +1,2 @@
-# Shiva_122_OST
+# Open Source Technologies
 This is an Open Source Practical project 
